@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Lujain Alajmi",
     description: "Your friendly neighborhood nerd.",
-    images: [`https://www.lujain.dev/og.jpg`],
+    images: [`https://www.lujain.dev/og.png`],
     creator: "lujainalajmi",
   },
   icons: {
